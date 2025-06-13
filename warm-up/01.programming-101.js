@@ -40,6 +40,7 @@ console.log("FullName: "+fullName);
 console.log("Age: " + age)
 
 // This will cause an error because registrationNumber is a constant
+// registrationNumber = '654321'; 
 
 
 
