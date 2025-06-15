@@ -14,7 +14,7 @@ for (let i = 0; i < n; i++) {
 
 
 console.log("-----------------------------------------------------");
-console.log("Right-angled triangle star pattern");
+console.log("Right-angled triangle star pattern ");
 let k = 5;
 for (let i =0 ; i< k ; i++) {
     let str = "";
